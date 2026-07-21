@@ -1,0 +1,12 @@
+.gradle/
+build/
+run/
+run-data/
+*.log
+logs/
+*.db
+*.db-shm
+*.db-wal
+.idea/
+*.iml
+Сборка (Игнорировать)/

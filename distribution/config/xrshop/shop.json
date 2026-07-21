@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "revision": 1,
+  "ui": {
+    "title": "Магазин",
+    "empty_message": "В магазине пока нет категорий",
+    "background_color": "#CC101018",
+    "panel_color": "#EE181820",
+    "text_color": "#FFFFFFFF",
+    "accent_color": "#FF55AAFF",
+    "error_color": "#FFFF5555",
+    "success_color": "#FF55FF55",
+    "tab_width": 120,
+    "card_width": 90,
+    "card_height": 105,
+    "horizontal_gap": 8,
+    "vertical_gap": 8,
+    "margin": 12,
+    "grid_left_padding": 8,
+    "confirmation_enabled": true
+  },
+  "categories": []
+}

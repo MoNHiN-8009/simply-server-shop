@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "max_balance": 9000000000000000,
+  "session_timeout_seconds": 120,
+  "editor_timeout_seconds": 900,
+  "rate_limit_window_seconds": 5,
+  "max_purchase_requests_per_window": 4,
+  "sqlite_queue_size": 256,
+  "sqlite_busy_timeout_ms": 5000,
+  "sqlite_wal": true,
+  "max_backups": 32,
+  "limits": {
+    "max_id_length": 64,
+    "max_title_length": 128,
+    "max_description_lines": 16,
+    "max_description_line_length": 256,
+    "max_categories": 128,
+    "max_products_per_category": 512,
+    "max_commands_per_product": 16,
+    "max_command_length": 1024,
+    "max_permission_length": 128,
+    "max_nbt_bytes": 4096,
+    "max_nbt_depth": 8,
+    "max_json_bytes": 8388608,
+    "max_packet_payload_bytes": 24576,
+    "max_transfer_bytes": 8388608,
+    "max_chunks": 512,
+    "max_dimension": 4096,
+    "max_coordinate": 100000,
+    "max_limit_period_seconds": 31536000,
+    "max_cooldown_seconds": 2592000
+  }
+}
